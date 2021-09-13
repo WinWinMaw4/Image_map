@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(0, 0, 0, 0.137) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+img{
+    border-radius: 50px;
+    transition: .4s;
+}
+img:hover{
+    filter:contrast(1.11);
+}
